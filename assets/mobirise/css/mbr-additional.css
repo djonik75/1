@@ -1187,6 +1187,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1287,6 +1291,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -1677,6 +1685,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1777,6 +1789,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -2501,6 +2517,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2601,6 +2621,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -3227,6 +3251,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3327,6 +3355,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -4037,6 +4069,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -4137,6 +4173,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -4768,6 +4808,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -4868,6 +4912,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -5578,6 +5626,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -5678,6 +5730,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
@@ -6243,6 +6299,10 @@ section.lazy-placeholder:after {
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rU3nUHqicw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rU3nUHqicw .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -6343,6 +6403,10 @@ section.lazy-placeholder:after {
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rU3nUHqicw .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rU3nUHqicw .navbar-collapse.collapsing .navbar-buttons,
   .cid-rU3nUHqicw .navbar-collapse.show .navbar-buttons {
